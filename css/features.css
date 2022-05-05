@@ -1,0 +1,23 @@
+.features {
+  font-family: "Roboto";
+  margin-top: 120px;
+}
+
+.features__title {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 27px;
+  margin-top: 53px;
+}
+
+.features__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.features__item {
+  width: 193px;
+  text-align: center;
+  margin: 0 35px;
+}
